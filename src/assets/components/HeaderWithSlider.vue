@@ -4,7 +4,7 @@
       <header>
         <div class="wrapper">
           <a href="#">
-            <img src="/src/theme/img/logo.png" class="logo" alt titl />
+            <img src="src/theme/img/logo.png" class="logo" alt titl />
           </a>
           <a href="#" class="hamburger"></a>
           <nav>
@@ -13,10 +13,10 @@
                 <router-link to="/">Home</router-link>
               </li>
               <li>
-                <router-link to="/property-list">Property List</router-link>
+                <router-link to="./property-list">Property List</router-link>
               </li>
               <li>
-                <router-link to="/aboutus">About Us</router-link>
+                <router-link to="./aboutus">About Us</router-link>
               </li>
               <li>
                 <a href="#">Contact</a>

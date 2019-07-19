@@ -4,7 +4,7 @@
 			<ul class="properties_list">
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_1.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_1.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$2500</span>
 					<div class="property_details">
@@ -16,7 +16,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_2.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_2.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$1000</span>
 					<div class="property_details">
@@ -28,7 +28,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_3.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_3.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$500</span>
 					<div class="property_details">
@@ -40,7 +40,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_1.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_1.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$2500</span>
 					<div class="property_details">
@@ -52,7 +52,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_2.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_2.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$1000</span>
 					<div class="property_details">
@@ -64,7 +64,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_3.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_3.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$500</span>
 					<div class="property_details">
@@ -76,7 +76,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_1.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_1.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$2500</span>
 					<div class="property_details">
@@ -88,7 +88,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_2.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_2.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$1000</span>
 					<div class="property_details">
@@ -100,7 +100,7 @@
 				</li>
 				<li>
 					<a href="#">
-						<img src="/src/theme/img/property_3.jpg" alt="" title="" class="property_img"/>
+						<img src="src/theme/img/property_3.jpg" alt="" title="" class="property_img"/>
 					</a>
 					<span class="price">$500</span>
 					<div class="property_details">

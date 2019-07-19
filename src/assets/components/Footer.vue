@@ -35,9 +35,9 @@
 				<li class="about">
 					<p>La Casa is real estate minimal html5 website template, designed and coded by pixelhint, tellus varius, dictum erat vel, maximus tellus. Sed vitae auctor ipsum</p>
 					<ul>
-						<li><a href="http://facebook.com/pixelhint" class="facebook" target="_blank"></a></li>
-						<li><a href="http://twitter.com/pixelhint" class="twitter" target="_blank"></a></li>
-						<li><a href="http://plus.google.com/+Pixelhint" class="google" target="_blank"></a></li>
+						<li><a href="http://facebook.com/" class="facebook" target="_blank"></a></li>
+						<li><a href="http://twitter.com/" class="twitter" target="_blank"></a></li>
+						<li><a href="http://plus.google.com/" class="google" target="_blank"></a></li>
 						<li><a href="#" class="skype"></a></li>
 					</ul>
 				</li>
@@ -45,7 +45,7 @@
 		</div>
 
 		<div class="copyrights wrapper">
-			Copyright © 2015 <a href="http://pixelhint.com" target="_blank" class="ph_link" title="Download more free Templates">Pixelhint.com</a>. All Rights Reserved.
+			Copyright © xxx <a href="http://pixelhint.com" target="_blank" class="ph_link" title="Download more free Templates">Pixelhint.com</a>. All Rights Reserved.
 		</div>
 	</footer><!--  end footer  -->
 </template>

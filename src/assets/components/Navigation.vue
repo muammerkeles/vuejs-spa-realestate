@@ -2,13 +2,13 @@
     <header>
         <div class="wrapper">
           <a href="#">
-            <img src="/src/theme/img/logo.png" class="logo" alt />
+            <img src="src/theme/img/logo.png" class="logo" alt />
           </a>
           <a href="#" class="hamburger"></a>
           <nav>
             <ul>
               <li>
-                <router-link to="/">Home</router-link>
+                <router-link to="/index">Home</router-link>
               </li>
               <li>
                 <router-link to="/property-list">Property List</router-link>

@@ -37,8 +37,10 @@ const router = new VueRouter({
   routes
 });
 router.beforeEach((to, from, next) => {
+  console.log("from",from);
+  console.log("to",to);
   store.state.sliderActive=false;
-  if(to.name=="index"){
+  if(to.name.indexOf("index")>-1){
     store.state.sliderActive=true;
   }
   document.title = to.name + " | " + to.path;// `My website - ${to.meta.title}`
